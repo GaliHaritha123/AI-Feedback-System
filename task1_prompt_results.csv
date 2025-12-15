@@ -1,0 +1,4 @@
+Prompt Version,Accuracy,JSON Validity Rate
+Prompt V1 - Basic,0.02,0.02
+Prompt V2 - Criteria,0.115,0.18
+Prompt V3 - Strict JSON,0.05,0.08
